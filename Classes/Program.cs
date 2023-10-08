@@ -1,10 +1,16 @@
-﻿namespace Classes
+﻿using Classes;
+using System.Net.Cache;
 {
-    public class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        Car myCar = new Car();
+
+        myCar.Make = "BMW";
+        myCar.Model = "M2";
+        myCar.Year = 2017;
+
+        Console.WriteLine("Car Make: " + myCar.Make);
+        Console.WriteLine("Car Model: " + myCar.Model);
+        Console.WriteLine("Car Year: " + myCar.Year);
     }
 }

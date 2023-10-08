@@ -1,0 +1,4 @@
+C:\Users\erich\OneDrive\Desktop\repos\Classes-Exercise\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erich\OneDrive\Desktop\repos\Classes-Exercise\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Users\erich\OneDrive\Desktop\repos\Classes-Exercise\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Users\erich\OneDrive\Desktop\repos\Classes-Exercise\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
