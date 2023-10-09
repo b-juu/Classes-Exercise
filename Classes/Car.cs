@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace Classes
 {
-    internal class Classroom
-    {
+    public class Car
+    {      
+        public string Make { get; set; }
+        public string Model { get; set; }
+        public int Year { get; set; }
     }
-}
+
+
+
+ 
+    }
+
